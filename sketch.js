@@ -25,7 +25,7 @@ function setup() {
 
   //create player body
 
-  //create player archer object
+
 
 }
 
@@ -36,7 +36,6 @@ function draw() {
 
   //show the playerbase image using image() function
 
-  //call the display function of player archer using its object
 
   Engine.update(engine);
 
